@@ -1,6 +1,5 @@
 /*
 2.19.19
-CS 145
 Description:
 Initializes the game with the dictionary you chose,
 you pick the length of the word, and the maximum number of the wrong guesses.
